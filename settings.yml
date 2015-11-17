@@ -1,0 +1,17 @@
+db:
+  dbm: mysql
+  host: localhost
+  port: 3306
+  user: root
+  password:
+  name: test
+
+paths:
+  media: media
+  static: static
+
+log: highlands.log
+
+root: /path/to/root/dir/
+
+timezone: UTC
